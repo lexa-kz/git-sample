@@ -1,5 +1,6 @@
-HELLO GIT!!! 123
+
+HELLO GIT!!!
 some new line
 border is absent
-
+- - - - - - - - - - - - -
 something new was added
