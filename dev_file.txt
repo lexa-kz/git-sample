@@ -2,7 +2,8 @@ Development text for branch dev
 
 Test it!
 
-HELLO FIRST CHANGE  
+HELLO FIRST CHANGE
+... Commit 3
 
 Addiing some words
 
