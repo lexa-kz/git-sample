@@ -7,4 +7,3 @@ something new was added
 
 addons from dev-branch
 
-Commit - 1  
