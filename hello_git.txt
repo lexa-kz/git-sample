@@ -1,8 +1,14 @@
 
-HELLO GIT!!!
+HELLO GIT!!! adding new Branch
 some new line
 border is absent
 - - - - - - - - - - - - -
 something new was added
 
+<<<<<<< HEAD
 add changees for pushing
+=======
+addons from dev-branch
+
+Commit - 1  
+>>>>>>> 6b4ebec0abe2270d8d220d5186e153d6e84e801e

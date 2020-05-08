@@ -1,0 +1,13 @@
+Development text for branch dev
+
+Test it!
+
+HELLO FIRST CHANGE
+... Commit 3
+
+Addiing some words
+
+... some changes dev_fle
+... tipa rebase
+
+--> changes for push
