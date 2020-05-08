@@ -13,3 +13,5 @@ Addiing some words
 --> changes for push
 
 -> another changes
+
+> last changing for 15 lesson
